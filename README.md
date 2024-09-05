@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apoorv Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React JS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/apoorvsarkar2013](https://github.com/apoorvsarkar2013)
 
 - 📫 How to reach me **apoorvsarkar2013@gmail.com**
